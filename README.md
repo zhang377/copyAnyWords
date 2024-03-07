@@ -13,8 +13,7 @@ This project is entirely written in Python and requires a Python environment. Si
 resultCpWords_2.py是对复制到txt文件的单词进行规范化处理。
 
 
-本项目完全由python编写，需要必须的python环境，在 pycharm 或者 jupyter  notebook中启动cpwords_1.py即可。
-resultCpWords_2.py是对复制到txt文件的单词进行规范化处理。
+
 
 
 
