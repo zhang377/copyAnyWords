@@ -6,7 +6,6 @@ This project allows users to conveniently import copied words to a target text f
 
 ## Usage    使用方法
 This project is entirely written in Python and requires a Python environment. Simply launch `cpwords_1.py` in PyCharm or Jupyter Notebook. `resultCpWords_2.py` is used to standardize the words copied to the text file.
-<<<<<<< HEAD
 
 本项目完全由python编写，需要必须的python环境，在 pycharm 或者 jupyter  notebook中启动cpwords_1.py即可。
 resultCpWords_2.py是对复制到txt文件的单词进行规范化处理。
