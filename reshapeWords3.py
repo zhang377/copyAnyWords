@@ -3,7 +3,7 @@ import enchant
 
 # 读取原始文件内容
 input_file_path = r'D:\Files\python_projects\copywords\copyWords.txt'
-output_file_path = r'D:\Files\python_projects\copywords\copyWordsResult.txt'
+output_file_path = r'D:\Files\python_projects\copywords\words.txt'
 
 with open(input_file_path, 'r', encoding='utf-8') as file:
     lines = file.readlines()
@@ -20,3 +20,5 @@ for line in lines:
 # 写入处理后的内容到新文件
 with open(output_file_path, 'w', encoding='utf-8') as output_file:
     output_file.write('\n'.join(unique_words.keys()))
+
+

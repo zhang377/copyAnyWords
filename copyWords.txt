@@ -1,4 +1,4 @@
-Afterward
+锘緼fterward
 modify
 mandatory
 requisite 
@@ -107,15 +107,3 @@ patch
 alanines
 alanine
 hierarchy
-用中文解释
-tshark -nr shark2.pcapng -Y 'dns' | head
-curl http://www.reddshrimpandherring.com
-https://github.com/Dvd848/CTFs/blob/master/2021_picoCTF/Wireshark_twoo_twooo_two_twoo.md
-Wireshark twoo twooo two twoo...
-Wireshark
-advanced-potion-making
-
-https://zhuanlan.zhihu.com/p/545288342
-https://ctf.tj.cn/TK/
-Trivial Flag Transfer Protocol
-https://github.com/vivian-dai/PicoCTF2021-Writeup/blob/main/Forensics/Trivial%20Flag%20Transfer%20Protocol/Trivial%20Flag%20Transfer%20Protocol.md

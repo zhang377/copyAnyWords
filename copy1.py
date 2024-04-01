@@ -13,7 +13,7 @@ while True:
         clipboard_content = new_clipboard_content  # 更新剪贴板内容
 
         # 写入新的内容到文件中
-        with open('D:\\Files\\python_projects\\copywords\\copyWords.txt', 'a') as file:
+        with open('/copy.txt', 'a') as file:
             file.write('\n' + clipboard_content)  # 写入剪贴板内容到下一行的行首
 
     # 1s后再次检查剪贴板内容
